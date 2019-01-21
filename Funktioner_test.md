@@ -1,5 +1,7 @@
-# Funktion test uden parameter uden return
+# *Funktion test uden parameter uden return*
 
+Et simpelt funktions kald der kalder den definerede funktion
+kaldMig() uden parameter til funktionen og uden en return statement i funktionen
 
 ```javascript
 document.addEventListener('DOMContentLoaded',function(){
@@ -17,9 +19,9 @@ document.addEventListener('DOMContentLoaded',function(){
 });
 ```
 
+# *Funktion test med parameter uden return*
 
-
-# Funktion test med parameter uden return
+Et funktions kald der definere funktionen kaldMig() og sender et parameter men uden at funktionen returnere en værdi.
 
 ```javascript
 document.addEventListener('DOMContentLoaded',function(){
@@ -38,7 +40,9 @@ document.addEventListener('DOMContentLoaded',function(){
 	}
 });
 ```
-# Funktion test med parameter med return
+# *Funktion test med parameter med return*
+
+Et funktions kald der definere funktionen kaldMig() og sender et parameter, og samtidigt returnere den samlede værdi af funktionen til variablen indhold.
 
 ```javascript
 document.addEventListener('DOMContentLoaded',function(){
