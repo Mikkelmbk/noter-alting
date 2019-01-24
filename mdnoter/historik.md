@@ -2,6 +2,8 @@
 
 ## 17-01-2019 - 23-01-2019: ***Js Udenad***
 
+[Læs Mere](https://github.com/rts-cmk/js-udenad-wuhf01)
+
 Primære lærer: Ady Moussa (amo@rts.dk)
 
 Hjælpe lærer: Frank Goldmann (frg@rts.dk)
