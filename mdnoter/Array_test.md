@@ -1,9 +1,13 @@
 # *Array test med forklaringer*
 
+Under DOMContentLoaded opretter jeg en variabel til et array på 3 navne
 ```javascript
 document.addEventListener('DOMContentLoaded', function(){
 
 	let fornavne = ["brian","carsten","anders"];
+```
+
+```javascript
 	let ul = document.querySelector('#hej');
 	let btn = document.querySelector('#btn');
 	let btn2 = document.querySelector('#btn2');
@@ -26,16 +30,13 @@ document.addEventListener('DOMContentLoaded', function(){
 	ul.innerHTML = "";
 
 	fornavne.forEach(fornavn => {
-
+```
+Husk for at få den til at lave flere Li'er Skal der være += og ikke bare = ved = overskriver den det bare for hver gang forEachen bliver kørt
+```javascript
 		ul.innerHTML += "<li>" + fornavn + "</li>";
-// Husk for at få den til at lave flere Li'er
-// Skal der være += og ikke bare =
-// ved = overskriver den det bare for hver gang 
-// forEachen bliver kørt
-		
-
-//Alt herinde bliver kørt så mange gange som arrayet's index, så hvis du console.logger herinde så får du den udskrevet 3 gange i det her tilfælde.
-
+```
+Alt herinde bliver kørt så mange gange som arrayets index, så hvis du console.logger herinde (I forEachen) så får du den udskrevet 3 gange i det her tilfælde.
+```javascript
 	});
 }
 	console.log(fornavne[0]);
