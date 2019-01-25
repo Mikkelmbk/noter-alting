@@ -37,8 +37,8 @@ Jeg gør nøjagtigt det samme her endnu en gang, overskriver timer, og pusher ti
 
 		countArray.push(Timer);
 ```
-Jeg definere her min funktion checkTimer() nøjagtigt som i setTimeout01. eksemplet.
-Min funktion er kaldt i alle mine setTimeout metoder nøjagtigt som i setTimeout01. eksemplet.
+Jeg definere her min funktion checkTimer() nøjagtigt som i [setTimeout01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/setTimeout01.md). eksemplet.
+Min funktion er kaldt i alle mine setTimeout metoder nøjagtigt som i [setTimeout01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/setTimeout01.md). eksemplet.
 Forskellen er at i denne if statement tjekker jeg altså ikke om count er lig med en fast tal værdi, jeg tjekker derimod om count er lig med længden af mit array
 ```javascript
 	function checkTimer() {
