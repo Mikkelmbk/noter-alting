@@ -6,6 +6,20 @@
 
 [JSON objekt til Javascript](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/ParseJsonTilJavascript.md)
 
+[Noter til Fetch Lokalt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_lokalt.md)
+
+[Noter til Fetch fra API](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_fra_API.md)
+
+[Noter til Fetch i forEach](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_i_forEach.md)
+
+[Noter til setTimeout01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/setTimeout01.md)
+
+[Noter til setTimeout02](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/setTimeout02.md)
+
+[Noter til Hent Info ud af Scope](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/hent_information_ud_af_scope.md)
+
+
+
 
 
 
