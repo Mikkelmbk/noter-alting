@@ -2,7 +2,7 @@
 
 ## 24-01-2019 - 30-01-2019: Dataservice og Dataintegration
 
-### **Emner: JSON, API**
+### **Emner: JSON, API, setTimeout, fetch, Scope**
 
 [JSON objekt til Javascript](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/ParseJsonTilJavascript.md)
 
