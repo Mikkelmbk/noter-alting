@@ -6,9 +6,9 @@ Dataservice Mappe 02.
 ```javascript
 document.addEventListener('DOMContentLoaded', function(){
 ```
-man skriver fetch, og åbner paranteser og skriver så API'en eller stien ind, indholdet i fetch paranteserne kan også godt være en variabel som indeholder API'en du vil fetche
+man skriver fetch, og åbner paranteser og skriver så API'en eller stien ind, indholdet i fetch paranteserne kan også godt være en variabel som indeholder API'en du vil fetche. et API er JSON kode
 ```javascript
-	fetch("assets.1/JSON/person.json")
+	fetch("assets.1/JSON/person.json") 
 ```
 Den første "then" metode er reserveret til et return statement, det skal ALTID være der. For at kunne skrive kode i "then" metoden skal man åbne en anonym funktion således (PARAMETER HER) => {KODE HER}. 
 ```javascript
