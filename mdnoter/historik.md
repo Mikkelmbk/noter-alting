@@ -18,6 +18,8 @@
 
 [Noter til Hent Info ud af Scope](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/hent_information_ud_af_scope.md)
 
+[Noter til Synkron og Asynkron](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/synkron_og_asynkron.md)
+
 
 
 
