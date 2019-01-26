@@ -13,7 +13,7 @@ Her lægger jeg fetchURL'en ned i variablen fetchUrl og kører min fetch på var
 	let fetchUrl = "https://swapi.co/api/planets/1/"
 	fetch(fetchUrl)
 ```
-Den første "then" metode er reserveret til et return statement, det skal ALTID være der. For at kunne skrive kode i "then" metoden skal man åbne en anonym funktion således (PARAMETER HER) => {KODE HER}.
+Den første "then" metode er reserveret til et return statement, det skal ALTID være der, for det er sådan du laver JSON til javascript. For at kunne skrive kode i "then" metoden skal man åbne en anonym funktion således (PARAMETER HER) => {KODE HER}.
 ```javascript
 		.then((promise) => {
 			return promise.json();
