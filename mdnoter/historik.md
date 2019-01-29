@@ -2,7 +2,7 @@
 
 ## 24-01-2019 - 30-01-2019: Dataservice og Dataintegration
 
-### **Emner: JSON, API, setTimeout, fetch, Scope, Synkron/Asynkron**
+### **Emner: JSON, API, setTimeout, fetch, Scope, Synkron/Asynkron, Loading Screen**
 
 [JSON objekt til Javascript](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/ParseJsonTilJavascript.md)
 
@@ -20,12 +20,18 @@
 
 [Noter til Synkron og Asynkron](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/synkron_og_asynkron.md)
 
+[Noter til Fetch fra API og Gem Lokalt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_fra_api_gem_lokalt.md)
 
+[Noter til Fetch fra Api med ApiKey](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_api_med_apiKey.md)
 
+[Noter til loading Screen01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/loading_screen01.md)
 
+[Noter til loading screen02](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/loading_screen02.md)
 
 
 Primære lærer: Ady Moussa (amo@rts.dk).
+
+Hjælpe lærer: Carsten Lund (Email Mangler).
 
 ## 17-01-2019 - 23-01-2019: Js Udenad
 
