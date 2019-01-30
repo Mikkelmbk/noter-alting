@@ -28,6 +28,8 @@
 
 [Noter til loading screen02](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/loading_screen02.md)
 
+[Noter til CountDown med SetInterval](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/countDown_med_setInterval.md)
+
 
 Primære lærer: Ady Moussa (amo@rts.dk).
 
