@@ -14,31 +14,31 @@ Primære lærer: Ady Moussa (amo@rts.dk).
 
 ### **Emner: JSON, API, setTimeout, fetch, Scope, Synkron/Asynkron, Loading Screen**
 
-[JSON objekt til Javascript](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/ParseJsonTilJavascript.md)
+[JSON objekt til Javascript](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/ParseJsonTilJavascript.md)
 
-[Noter til Fetch Lokalt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_lokalt.md)
+[Noter til Fetch Lokalt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/fetch_lokalt.md)
 
-[Noter til Fetch fra API](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_fra_API.md)
+[Noter til Fetch fra API](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/fetch_fra_API.md)
 
-[Noter til Fetch i forEach](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_i_forEach.md)
+[Noter til Fetch i forEach](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/fetch_i_forEach.md)
 
-[Noter til setTimeout01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/setTimeout01.md)
+[Noter til setTimeout01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/setTimeout01.md)
 
-[Noter til setTimeout02](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/setTimeout02.md)
+[Noter til setTimeout02](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/setTimeout02.md)
 
-[Noter til Hent Info ud af Scope](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/hent_information_ud_af_scope.md)
+[Noter til Hent Info ud af Scope](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/hent_information_ud_af_scope.md)
 
-[Noter til Synkron og Asynkron](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/synkron_og_asynkron.md)
+[Noter til Synkron og Asynkron](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/synkron_og_asynkron.md)
 
-[Noter til Fetch fra API og Gem Lokalt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_fra_api_gem_lokalt.md)
+[Noter til Fetch fra API og Gem Lokalt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/fetch_fra_api_gem_lokalt.md)
 
-[Noter til Fetch fra Api med ApiKey](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/fetch_api_med_apiKey.md)
+[Noter til Fetch fra Api med ApiKey](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/fetch_api_med_apiKey.md)
 
-[Noter til loading Screen01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/loading_screen01.md)
+[Noter til loading Screen01](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/loading_screen01.md)
 
-[Noter til loading screen02](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/loading_screen02.md)
+[Noter til loading screen02](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/loading_screen02.md)
 
-[Noter til CountDown med SetInterval](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/countDown_med_setInterval.md)
+[Noter til CountDown med SetInterval](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Dataservice_Dataintegration/countDown_med_setInterval.md)
 
 
 Primære lærer: Ady Moussa (amo@rts.dk).
