@@ -10,14 +10,16 @@
 
 * **npm install** installere alt hvad der ligger i dependencies objektet i JSON package filen
 
-* **webpack** er en generel webpakke man kan downloade, ikke specifikt til et enkelt projekt
+* **npm i webpack** er en generel webpakke man kan downloade, ikke specifikt til et enkelt projekt
 
-* **webpack-cli** er også en generel webpakke, bare en anden slags
+* **npm i webpack-cli** er også en generel webpakke, bare en anden slags
 
 * **npm run** betyder at den leder efter en property i dit package.JSON.
 
 * **npm run develop** så leder den efter din develop property i din package.JSON fil. Shortcut for at stoppe npm run develop CTRL + C
 
 * **npm run build** så leder den efter din build property i din package.JSON fil
+
+* **--watch** de 2 bindestreger betyder at det er en option, options kan placeres på 
 
 
