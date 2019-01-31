@@ -11,6 +11,8 @@
 
 * **npm install** installere alt hvad der ligger i dependencies objektet i JSON package filen [npm install documentation](https://docs.npmjs.com/cli/install)
 
+* **nmp install forkortelse** npm install kan forkortes til *npm i*
+
 * **npm install webpack** er en generel webpakke man kan downloade, ikke specifikt til et enkelt projekt
 
 * **npm install webpack-cli** er også en generel webpakke, bare en anden slags

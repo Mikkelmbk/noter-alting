@@ -2,13 +2,15 @@
 
 ## 31-01-2019 - 06-02-2019: Avanceret CSS
 
-### **Emner:**
+### **Emner:** Avanceret Javascript
 
 [Ady Noter Avanceret Css](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Fag%20Avanceret%20CSS/Fag%20Avanceret%20CSS.md)
 
 
 
 Primære lærer: Ady Moussa (amo@rts.dk).
+
+Hjælpe lærer: Frank Goldmann (frg@rts.dk)
 
 ## 24-01-2019 - 30-01-2019: Dataservice og Dataintegration
 
