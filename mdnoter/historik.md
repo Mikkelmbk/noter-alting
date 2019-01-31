@@ -51,13 +51,13 @@ Hjælpe lærer: Carsten Lund (Email Mangler).
 
 [Repository der indeholder Eksempler på javascript kode som man bør kunne udenad.](https://github.com/rts-cmk/js-udenad-wuhf01)
 
-[Noter Til Funktioner](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Funktioner_test.md)
+[Noter Til Funktioner](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/javascript_basics/Funktioner_test.md)
 
-[Noter Til Array](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/Array_test.md)
+[Noter Til Array](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/javascript_basics/Array_test.md)
 
-[Noter til Push til objekt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/PushTilObjekt.md)
+[Noter til Push til objekt](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/javascript_basics/PushTilObjekt.md)
 
-[Noter til forEach og AppendChild](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/forEachAppendChild.md)
+[Noter til forEach og AppendChild](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/javascript_basics/forEachAppendChild.md)
 
 Primære lærer: Ady Moussa (amo@rts.dk)
 
