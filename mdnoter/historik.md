@@ -1,5 +1,13 @@
 # **Historik**
 
+## 31-01-2019 - 06-02-2019: Avanceret CSS
+
+### **Emner:**
+
+[Ady Noter Avanceret Css](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Fag%20Avanceret%20CSS/Fag%20Avanceret%20CSS.md)
+
+Primære lærer: Ady Moussa (amo@rts.dk).
+
 ## 24-01-2019 - 30-01-2019: Dataservice og Dataintegration
 
 ### **Emner: JSON, API, setTimeout, fetch, Scope, Synkron/Asynkron, Loading Screen**
