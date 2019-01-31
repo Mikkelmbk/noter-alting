@@ -1,10 +1,11 @@
 # npm kommandoer og deres forklaring.
 
-* Sådan åbnes Terminalen: Ctrl + Æ
+* Sådan åbnes Terminalen: Ctrl + Æ. Man må aldrig ændre i Lock filen
+
 
 * [Sådan downloades og installeres Node.js](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Blandet/Node.md) Det er et krav for at arbejde med Node / Node Package Manager, NPM. Det installeres bare på computeren, ikke i nogen specifik mappe.
 
-* **npm init** Initiater dit projekt og giver dig mulighed for at skrive Title, Author osv til den JSON fil som den opretter.
+* **npm init** Initializere dit projekt og giver dig mulighed for at skrive Title, Author osv til den JSON fil som den opretter.
 
 * **npm init -y** gør det samme som ovenstående, men her udfylder den visse felter for dig baseret på mappens navn, det repository den ligger i og så videre.
 
@@ -21,5 +22,7 @@
 * **npm run build** så leder den efter din build property i din package.JSON fil
 
 * **--watch** de 2 bindestreger betyder at det er en option, options kan placeres på kommandoer for at uddybe hvad du vil have den til. Eksempel: npm run develop --watch
+
+* **--save** Eksempel 2 for options: npm install 
 
 
