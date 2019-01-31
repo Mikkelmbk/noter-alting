@@ -11,9 +11,9 @@
 
 * **npm install** installere alt hvad der ligger i dependencies objektet i JSON package filen [npm install documentation](https://docs.npmjs.com/cli/install)
 
-* **npm i webpack** er en generel webpakke man kan downloade, ikke specifikt til et enkelt projekt
+* **npm install webpack** er en generel webpakke man kan downloade, ikke specifikt til et enkelt projekt
 
-* **npm i webpack-cli** er også en generel webpakke, bare en anden slags
+* **npm install webpack-cli** er også en generel webpakke, bare en anden slags
 
 * **npm run** betyder at den leder efter en property i dit package.JSON.
 
