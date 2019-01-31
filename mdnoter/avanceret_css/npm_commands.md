@@ -20,6 +20,6 @@
 
 * **npm run build** så leder den efter din build property i din package.JSON fil
 
-* **--watch** de 2 bindestreger betyder at det er en option, options kan placeres på 
+* **--watch** de 2 bindestreger betyder at det er en option, options kan placeres på kommandoer for at uddybe hvad du vil have den til. Eksempel: npm run develop --watch
 
 
