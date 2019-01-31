@@ -23,6 +23,6 @@
 
 * **--watch** de 2 bindestreger betyder at det er en option, options kan placeres på kommandoer for at uddybe hvad du vil have den til. Eksempel: npm run develop --watch
 
-* **--save** Eksempel 2 for options: npm install 
+* **--save** Eksempel 2 for options: npm install money --save Eksempel slut| money er propertien du forsøger at installere, og du gemmer den i dependencies ved at skrive --save.
 
 
