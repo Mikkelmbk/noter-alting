@@ -9,7 +9,7 @@
 
 * **npm init -y** gør det samme som ovenstående, men her udfylder den visse felter for dig baseret på mappens navn, det repository den ligger i og så videre.
 
-* **npm install** installere alt hvad der ligger i dependencies objektet i JSON package filen
+* **npm install** installere alt hvad der ligger i dependencies objektet i JSON package filen [npm install documentation](https://docs.npmjs.com/cli/install)
 
 * **npm i webpack** er en generel webpakke man kan downloade, ikke specifikt til et enkelt projekt
 
