@@ -1,0 +1,1 @@
+# Her kommer alt hvad jeg laver af noter for hovedforløbet til at ligge, det bliver inddelt i respektive mapper for hvad uge og fag det foregik i.
