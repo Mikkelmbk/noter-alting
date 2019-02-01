@@ -18,6 +18,7 @@
 
 [Sådan laves en Extension i scss](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/Extension%20i%20scss.md)
 
+[Noter til farvemanipulation](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/farvemanipulation_scss.md)
 
 npm guide oprettet af (nha@rts.dk)
 
