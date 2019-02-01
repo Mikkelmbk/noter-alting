@@ -19,7 +19,7 @@
 
 * **npm run** betyder at den leder efter en property i dit package.JSON.
 
-* **npm run develop** så leder den efter din develop property i din package.JSON fil. Shortcut for at stoppe npm run develop CTRL + C
+* **npm run develop** så leder den efter din develop property i din package.JSON fil, npm run develop skal være aktivt for at bundle.js lytter på ændringer når du gemmer i dit index.js dokument. Shortcut for at stoppe npm run develop CTRL + C
 
 * **npm run build** så leder den efter din build property i din package.JSON fil
 
