@@ -5,6 +5,8 @@ Vi opretter vores regel for vores nav, men istedet for at tage fat i ul'en på d
 scss nesting.
 ```scss
 nav{
+	
+	background-color:green;
 
 	ul{
 		color:green;
