@@ -1,4 +1,4 @@
-# sådan manipulere man med farve i scss
+# sådan manipulere man med farve i scss ved hjælp af functions
 
 Jeg opretter en variabel med en farve som indhold.
 ```scss
@@ -11,12 +11,10 @@ a{
 	background-color: $awesome-blue;
 }
 ```
-jeg opretter en regel for a tagget når jeg holder musen over det, som gør farven den får fra variablen 15% mørkere.
-
-
+jeg opretter en regel for a tagget når jeg holder musen over det, som gør farven den får fra variablen 15% mørkere ved hjælp af darken funktionen.
 ```scss
 a:hover{
 	background-color:darken($awesome-blue,15%);
 }
 ```
-Den bliver mørkere fordi at den bruger metoden darken, jeg kan gøre den lysere ved at bruge metoden lighten, men der er også mange andre muligheder for farveændring.
+Den bliver mørkere fordi at den bruger scss funktionen darken, jeg kan gøre den lysere ved at bruge scss funktionen lighten, men der er også mange andre muligheder for farveændring.
