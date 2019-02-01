@@ -6,6 +6,18 @@
 
 [Ady Noter Avanceret Css](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Fag%20Avanceret%20CSS/Fag%20Avanceret%20CSS.md)
 
+[Variabel i scss](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/variabler_i_scss.md)
+
+[Nesting i scss](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/scss_nesting.md)
+
+[npm commands](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/npm_commands.md)
+
+[Extend i scss](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/extend_i_scss.md)
+
+[Links til scss sider](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/SCSS_links.md)
+
+[Sådan laves en Extension i scss](https://github.com/Mikkelmbk/noter-alting/blob/master/mdnoter/avanceret_css/Extension%20i%20scss.md)
+
 
 npm guide oprettet af (nha@rts.dk)
 
