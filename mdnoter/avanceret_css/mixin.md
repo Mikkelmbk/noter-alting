@@ -1,6 +1,6 @@
 # Mixin forklaret
 
-Mixin er i princippet som en funktion i javascript, @mixin har samme effekt som ordet "function" i javascript, og det efterfølgende navn som i dette tilfælde er transform, representere navnet du tildeler funktionen du er ved og lave, indholdet af paranteserne er parameteret du kan vælge og sende med.
+Mixin er i princippet som en funktion i javascript, @mixin har samme effekt som ordet "function" i javascript, og det efterfølgende navn som i dette tilfælde er myTransform, representere navnet du tildeler funktionen du er ved og lave, indholdet af paranteserne er parameteret du kan vælge og sende med.
 ```scss
 @mixin myTransform($property) {
   -webkit-transform: $property;
