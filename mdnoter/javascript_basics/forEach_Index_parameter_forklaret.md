@@ -1,4 +1,4 @@
-# Løse Noter til Omskrivning
+# forEach Index parameter forklaret
 
 ```javascript
 
