@@ -4,7 +4,7 @@
 
 ### **Emner:** Avanceret Front-end
 
-
+[Avanceret Front-end Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_front-end)
 
 Primære lærer: Ady Moussa (amo@rts.dk).
 
@@ -25,7 +25,7 @@ Hjælpe lærer: Frank Goldmann (frg@rts.dk)
 
 ## 24-01-2019 - 30-01-2019: Dataservice og Dataintegration
 
-### **Emner: JSON, API, setTimeout, fetch, Scope, Synkron/Asynkron, Loading Screen**
+### **Emner:** JSON, API, setTimeout, fetch, Scope, Synkron/Asynkron, Loading Screen
 
 [Dataservice og Dataintegration Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/Dataservice_Dataintegration)
 
