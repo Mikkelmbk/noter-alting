@@ -4,6 +4,8 @@
 
 ### **Emner:** Avanceret Front-end
 
+[Avanceret Front-end gennemgang](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Fag%20Avanceret%20Frontend/Fag%20Avanceret%20Frontend%20Del%201.md)
+
 [Avanceret Front-end Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_front-end)
 
 Primære lærer: Ady Moussa (amo@rts.dk).
