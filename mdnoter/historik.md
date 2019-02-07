@@ -1,5 +1,14 @@
 # **Historik**
 
+## 07-02-2019 - 13-02-2019: Avanceret Front-end
+
+### **Emner:** Avanceret Front-end
+
+
+
+Primære lærer: Ady Moussa (amo@rts.dk).
+
+
 ## 31-01-2019 - 06-02-2019: Avanceret CSS
 
 ### **Emner:** Avanceret CSS
