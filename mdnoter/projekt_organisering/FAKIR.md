@@ -1,7 +1,7 @@
 # Hvad er Fakir
 
 
-Fakir er en Waterfall Arbejdsmetode
+Fakir er en Rigid Arbejdsmetode, det er også kaldt waterfall arbejdsmetode
 ```
 Forundersøgelse
 
