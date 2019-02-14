@@ -1,5 +1,11 @@
 # **Historik**
 
+## 14-02-2019 - 20-02-2019: Projekt Organisering
+
+### **Emner:** FAKIR Modellen.
+
+
+
 ## 07-02-2019 - 13-02-2019: Avanceret Front-end
 
 ### **Emner:** Avanceret Front-end
@@ -38,7 +44,7 @@ Hjælpe lærer: Carsten Lund (Email Mangler).
 
 ## 17-01-2019 - 23-01-2019: Js Udenad
 
-### **Emner: Javascript Basics**
+### **Emner**: Javascript Basics
 
 [Repository der indeholder Eksempler på javascript kode som man bør kunne udenad.](https://github.com/rts-cmk/js-udenad-wuhf01)
 
