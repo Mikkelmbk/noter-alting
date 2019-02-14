@@ -4,7 +4,7 @@
 
 ### **Emner:** FAKIR Modellen.
 
-
+[Projekt Organisering Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/projekt_organisering)
 
 ## 07-02-2019 - 13-02-2019: Avanceret Front-end
 
