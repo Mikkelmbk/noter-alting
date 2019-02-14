@@ -4,7 +4,10 @@
 
 ### **Emner:** FAKIR, SCRUM
 
+
 [Projekt Organisering Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/projekt_organisering)
+
+Primære lærer: Brian Emilius (be@rts.dk)
 
 ## 07-02-2019 - 13-02-2019: Avanceret Front-end
 
