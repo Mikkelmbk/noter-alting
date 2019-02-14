@@ -2,7 +2,7 @@
 
 ## 14-02-2019 - 20-02-2019: Projekt Organisering
 
-### **Emner:** FAKIR Modellen.
+### **Emner:** FAKIR, SCRUM
 
 [Projekt Organisering Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/projekt_organisering)
 
