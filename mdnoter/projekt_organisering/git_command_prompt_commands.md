@@ -14,3 +14,8 @@ Skriv git status for at se status for dit git projekt, for eksempel ændringer t
 ```
 git status
 ```
+
+Sådan fjerner man en fil fra sit næste commit hvis man har addet den men ikke vil have den med alligevel
+```
+git reset FIL NAVN HER
+```
