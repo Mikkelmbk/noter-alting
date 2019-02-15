@@ -19,3 +19,13 @@ Sådan fjerner man en fil fra sit næste commit hvis man har addet den men ikke 
 ```
 git reset FIL NAVN HER
 ```
+
+git remote add for at tilføje et alias for dit remote, giv det et NAVN og derefter giv den url'en den skal forbinde det navn med
+```
+git remote add ALIAS og URL HER
+```
+
+Skriv git remote for at få en liste over de remotes du har oprettet
+```
+git remote
+```
