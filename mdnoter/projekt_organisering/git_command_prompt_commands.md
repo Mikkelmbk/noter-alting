@@ -55,5 +55,16 @@ git push --set-upstream ALIAS NAVN master
 
 Sådan pusher du til dit ALIAS de efterfølgende gange
 ```
-git push ALIAS NAVN master
+git push ALIAS NAVN
 ```
+
+sådan pusher du til en anden branch end hvad den allerede er sat til
+```
+git push ALIAS NAVN skriv branch navn her hvis du vil pushe til en anden branch
+```
+
+Sådan puller man fra github gennem command prompt
+```
+git pull ALIAS NAVN
+```
+
