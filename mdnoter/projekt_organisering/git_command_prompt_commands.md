@@ -6,9 +6,14 @@ skriv cls for at clearer command prompten
 cls
 ```
 
-For at tilføje en fil til dit næste commit skriver du følgende.
+Sådan opretter man et projekt i git gennem command prompt
 ```
-git add FIL NAVN HER
+git init PROJEKT NAVN
+```
+
+For at stage (Tilføje) en fil til dit næste commit skriver du følgende.
+```
+git add FIL NAVN1 HER FIL NAVN2 HER
 ```
 
 For at commite med en kommentar skriver du følgende.
@@ -40,7 +45,15 @@ Skriv git remote for at få en liste over de remotes du har oprettet
 ```
 git remote
 ```
+
 Sådan pusher du til den URL du har liggende i dit ALIAS.
+
+--set-upstream skal kun skrives første gang.
 ```
 git push --set-upstream ALIAS NAVN master
+```
+
+Sådan pusher du til dit ALIAS de efterfølgende gange
+```
+git push ALIAS NAVN master
 ```
