@@ -10,9 +10,9 @@ Sådan opretter man et projekt i git gennem command prompt
 ```
 git init PROJEKT NAVN
 ```
-Sådan opretter man en fil i git i command prompten, hvis fil navnet allerede eksistere når du skriver code FIL NAVN HER så åbner den bare filen
+Sådan opretter man en fil via command prompten, hvis fil navnet allerede eksistere når du skriver code FIL NAVN HER så åbner den bare filen
 ```
-git code FIL NAVN HER
+code FIL NAVN HER
 ```
 
 For at stage (Tilføje) en fil til dit næste commit skriver du følgende.
@@ -70,5 +70,19 @@ git push ALIAS NAVN skriv branch navn her hvis du vil pushe til en anden branch
 Sådan puller man fra github gennem command prompt
 ```
 git pull ALIAS NAVN
+```
+
+Sådan opretter du en mappe. mkdir betyder make directory
+```
+mkdir MAPPE NAVN HER
+```
+
+Nedenstående kode åbner vscode med mappen du er i i command prompten
+```
+code .
+```
+Nedenstående kode åbner vscode med mappen projektet ligger i, og så mappen inde i den som hedder assets
+```
+code ./assets
 ```
 
