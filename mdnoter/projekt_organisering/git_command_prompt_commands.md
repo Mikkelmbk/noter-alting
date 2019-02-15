@@ -10,6 +10,10 @@ Sådan opretter man et projekt i git gennem command prompt
 ```
 git init PROJEKT NAVN
 ```
+Sådan opretter man en fil i git i command prompten, hvis fil navnet allerede eksistere når du skriver code FIL NAVN HER så åbner den bare filen
+```
+git code FIL NAVN HER
+```
 
 For at stage (Tilføje) en fil til dit næste commit skriver du følgende.
 ```
