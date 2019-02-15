@@ -1,5 +1,11 @@
 # Git command Prompt kommandoer
 
+
+skriv cls for at clearer command prompten
+```
+cls
+```
+
 For at tilføje en fil til dit næste commit skriver du følgende.
 ```
 git add FIL NAVN HER
@@ -25,7 +31,16 @@ git remote add for at tilføje et alias for dit remote, giv det et NAVN og deref
 git remote add ALIAS og URL HER
 ```
 
+Skriv følgende for at fjerne et ALIAS
+```
+git remote remove ALIAS HER
+```
+
 Skriv git remote for at få en liste over de remotes du har oprettet
 ```
 git remote
+```
+Sådan pusher du til den URL du har liggende i dit ALIAS.
+```
+git push --set-upstream ALIAS NAVN master
 ```
