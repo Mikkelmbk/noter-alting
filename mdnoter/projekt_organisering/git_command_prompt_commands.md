@@ -72,6 +72,16 @@ Sådan puller man fra github gennem command prompt
 git pull ALIAS NAVN
 ```
 
+Sådan opretter man en ny branch, -b er hvad der fortæller den at du skal til at oprette en branch
+```
+git checkout -b Branch Navn
+```
+
+Sådan skifter man til en branch der allerede er lavet
+```
+git checkout Branch Navn
+```
+
 Sådan opretter du en mappe. mkdir betyder make directory
 ```
 mkdir MAPPE NAVN HER
