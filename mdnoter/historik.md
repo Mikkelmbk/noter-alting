@@ -1,6 +1,6 @@
 # **Historik**
 
-## 14-02-2019 - 20-02-2019: Projekt Organisering
+## 14-02-2019 - FERIE - 27-02-2019: Projekt Organisering
 
 ### **Emner:** FAKIR, SCRUM
 
