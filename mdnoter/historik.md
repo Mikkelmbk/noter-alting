@@ -1,5 +1,9 @@
 # **Historik**
 
+## 28-02-2019 - 13-03-2019: Projekt Organisering i Opgave
+
+### **Emner:** Producer udleverede website.
+
 ## 14-02-2019 - FERIE - 27-02-2019: Projekt Organisering
 
 ### **Emner:** FAKIR, SCRUM
