@@ -1,8 +1,22 @@
 # **Historik**
 
+## 14-03-2019 - 20-03-2019: Refleksion over Projekt Organiserings Opgaven
+
+### **Emner:** Liste over ting jeg skal øve mig på.
+
+* Gemme fetch data globalt så jeg kan tilgå det flere steder uden at skulle fetche hver gang
+
+
+
+Primære lærer: Ady Moussa (amo@rts.dk).
+
 ## 28-02-2019 - 13-03-2019: Projekt Organisering i Opgave
 
 ### **Emner:** Producer udleverede website.
+
+[Hifi-Corner Opgave Github Repository](https://github.com/Mikkelmbk/HIFI_corner_Mikkel.B-Koll)
+
+Primære lærer: Ady Moussa (amo@rts.dk).
 
 ## 14-02-2019 - FERIE - 27-02-2019: Projekt Organisering
 
