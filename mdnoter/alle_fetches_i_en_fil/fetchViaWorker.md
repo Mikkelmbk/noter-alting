@@ -54,9 +54,9 @@ myWorker.onmessage = function (eventMessage){
 
 hvis eventMessage.data[0] betyder i det her tilfælde, hvis eventMessage.data er boolean'en, altså true.
 
-de 2 og tegn betyder at hvis begge sider af og tegnene skal opfyldes før indholdet af if statementet må køres
+de 2 && tegn betyder at hvis begge sider af && tegnene skal opfyldes før indholdet af if statementet må køres
 
-højre side af og tegnene siger at hvis eventMessage.data[2] er det samme som en tekst string der indeholder "FetchData1".
+højre side af && tegnene siger at hvis eventMessage.data[2] er det samme som en tekst string der indeholder "FetchData1".
 ```javascript
 if(eventMessage.data[0] && eventMessage.data[2] == "FetchData1"){
 ```
