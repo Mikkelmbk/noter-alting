@@ -34,13 +34,13 @@ Primære lærer: Ady Moussa (amo@rts.dk).
 
 Primære lærer: Brian Emilius (be@rts.dk)
 
-## 07-02-2019 - 13-02-2019: Avanceret Front-end
+## 07-02-2019 - 13-02-2019: Avanceret Front-end del-1
 
 ### **Emner:** Avanceret Front-end (Avanceret Front-end Opgave 01)
 
 [Avanceret Front-end gennemgang](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Fag%20Avanceret%20Frontend/Fag%20Avanceret%20Frontend%20Del%201.md)
 
-[Avanceret Front-end Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_front-end)
+[Avanceret Front-end Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_front-end/del-01)
 
 Primære lærer: Ady Moussa (amo@rts.dk).
 
