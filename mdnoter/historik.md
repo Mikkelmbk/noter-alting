@@ -1,10 +1,17 @@
 # **Historik**
 
+## 21-03-2019 - 29-03-2019: Avanceret Frontend del 2
+
+### **Emner:** querySelector, Data-Attribute, classList.add, HTML-partials.
+
+
+Primære lærer: Ady Moussa (amo@rts.dk).
+
 ## 14-03-2019 - 20-03-2019: Refleksion over Projekt Organiserings Opgaven
 
 ### **Emner:** Liste over ting jeg skal øve mig på.
 
-* Gemme fetch data globalt så jeg kan tilgå det flere steder uden at skulle fetche hver gang
+[Gemme fetch data globalt så jeg kan tilgå det flere steder uden at skulle fetche hver gang](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/alle_fetches_i_en_fil)
 
 
 
