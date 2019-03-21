@@ -4,6 +4,7 @@
 
 ### **Emner:** querySelector, Data-Attribute, classList.add, HTML-partials.
 
+[Avanceret Frontend noter del 2](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_front-end/del-02)
 
 Primære lærer: Ady Moussa (amo@rts.dk).
 
