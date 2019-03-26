@@ -2,7 +2,7 @@
 
 ## 21-03-2019 - 29-03-2019: Avanceret Frontend del 2
 
-### **Emner:** querySelector, Data-Attribute, classList.add, HTML-partials.
+### **Emner:** querySelector, Data-Attribute, classList.add, HTML-partials, cloneNode, Dynamisk indlæsning af Css filer.
 
 [Avanceret Frontend noter del 2](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_front-end/del-02)
 
