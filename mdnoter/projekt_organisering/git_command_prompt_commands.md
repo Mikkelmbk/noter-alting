@@ -95,4 +95,9 @@ Nedenstående kode åbner vscode med mappen projektet ligger i, og så mappen in
 ```
 code ./assets
 ```
+gå til roden af drevet med en enkelt kommando
+
+```
+cd\
+```
 
