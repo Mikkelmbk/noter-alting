@@ -101,3 +101,9 @@ gå til roden af drevet med en enkelt kommando
 cd\
 ```
 
+Delete a branch
+
+```
+git branch -d BRANCH NAVN
+
+```
