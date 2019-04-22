@@ -1,5 +1,22 @@
 # **Historik**
 
+## 06-04-2019 - 12-04-2019: Dataservice og DataIntegration 2
+
+### **Emner:** SQL, Lave egen server og fetche information fra den.
+
+
+
+## 30-03-2019 - 05-04-2019: Praktisk Webudvikling
+
+### **Emner:** Bruge hvad vi lærte i ugen forinden i dette projekt.
+
+[Udleveret Opgave fra Ady på Slack](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Praktisk%20Web/030%20Ugen%20efter%20Avanceret%20Frontend%20Del%202/030%20Ugen%20efter%20Avanceret%20Frontend%20Del%202.md)
+
+[Opgaven Jeg lavede](https://github.com/Mikkelmbk/praktik-uge14-2019-mikkel-back-koll)
+
+
+Primære lærer: Ady Moussa (amo@rts.dk).
+
 ## 21-03-2019 - 29-03-2019: Avanceret Frontend del 2
 
 ### **Emner:** querySelector, Data-Attribute, classList.add, HTML-partials, cloneNode, Dynamisk indlæsning af Css filer.
