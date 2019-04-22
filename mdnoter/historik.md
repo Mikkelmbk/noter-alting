@@ -4,7 +4,7 @@
 
 ### **Emner:** SQL, Lave egen server og fetche information fra den.
 
-
+[Dataservice og Dataintegration Noter Del 2](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/Dataservice_Dataintegration/del-02)
 
 ## 30-03-2019 - 05-04-2019: Praktisk Webudvikling
 
@@ -81,7 +81,7 @@ Hjælpe lærer: Frank Goldmann (frg@rts.dk)
 
 ### **Emner:** JSON, API, setTimeout, fetch, Scope, Synkron/Asynkron, Loading Screen
 
-[Dataservice og Dataintegration Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/Dataservice_Dataintegration)
+[Dataservice og Dataintegration Noter Del 1](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/Dataservice_Dataintegration/del-01)
 
 
 Primære lærer: Ady Moussa (amo@rts.dk).
