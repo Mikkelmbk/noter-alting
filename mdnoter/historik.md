@@ -6,6 +6,8 @@
 
 [Dataservice og Dataintegration Noter Del 2](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/Dataservice_Dataintegration/del-02)
 
+Primær lærer: Frank Goldmann (frg@rts.dk)
+
 ## 30-03-2019 - 05-04-2019: Praktisk Webudvikling
 
 ### **Emner:** Bruge hvad vi lærte i ugen forinden i dette projekt.
