@@ -105,5 +105,9 @@ Delete a branch
 
 ```
 git branch -d BRANCH NAVN
+```
+Clone et repository ned fra github
 
+```
+git clone URL HER efterfulgt af det navn du ønsker mappen skal have på din computer når den er hentet
 ```
