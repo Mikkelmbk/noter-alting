@@ -2,7 +2,7 @@
 
 ## 23-04-2019 - 26-04-2019:
 
-### **Emner:** Opsummering af Projekt fra uge 14
+### **Emner:** Avanceret CSS Del 2
 
 Primære lærer: Ady Moussa (amo@rts.dk).
 
