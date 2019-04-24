@@ -4,6 +4,8 @@
 
 ### **Emner:** Avanceret CSS Del 2
 
+[Avanceret Css del 2 Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_css/del-02)
+
 Primære lærer: Ady Moussa (amo@rts.dk).
 
 ## 06-04-2019 - 12-04-2019: Dataservice og DataIntegration 2
