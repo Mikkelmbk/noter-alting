@@ -1,6 +1,15 @@
 # **Historik**
 
-## 23-04-2019 - 26-04-2019:
+## 03-05-2019 - 10-05-2019: Programmering
+
+### **Emner:** Programmering
+
+
+
+
+Primære lærer: Ady Moussa (amo@rts.dk).
+
+## 23-04-2019 - 02-05-2019: Avanceret CSS
 
 ### **Emner:** Avanceret CSS Del 2
 
