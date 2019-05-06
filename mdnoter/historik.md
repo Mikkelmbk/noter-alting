@@ -4,9 +4,6 @@
 
 ### **Emner:** Programmering
 
-
-
-
 Primære lærer: Ady Moussa (amo@rts.dk).
 
 ## 23-04-2019 - 02-05-2019: Avanceret CSS
@@ -14,6 +11,8 @@ Primære lærer: Ady Moussa (amo@rts.dk).
 ### **Emner:** Avanceret CSS Del 2
 
 [Avanceret Css del 2 Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_css/del-02)
+
+[Avanceret Css del 2 opgave 04-02](https://github.com/Mikkelmbk/avanceret-css-mikkel-back-koll/blob/master/del-02/opg-04-02/dist/js/index.js)
 
 Primære lærer: Ady Moussa (amo@rts.dk).
 
@@ -88,7 +87,7 @@ Primære lærer: Ady Moussa (amo@rts.dk).
 
 [Ady Noter Avanceret Css](https://github.com/rts-cmk-wuhf01/rts-cmk-wuhf01-repo/blob/master/Fag%20Avanceret%20CSS/Fag%20Avanceret%20CSS.md)
 
-[Avanceret CSS Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_css)
+[Avanceret CSS Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/avanceret_css/del-01)
 
 npm guide oprettet af (nha@rts.dk)
 
@@ -113,7 +112,7 @@ Hjælpe lærer: Carsten Lund (Email Mangler).
 
 [Repository der indeholder Eksempler på javascript kode som man bør kunne udenad.](https://github.com/rts-cmk/js-udenad-wuhf01)
 
-[Javascript Basics Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/javascript_basics)
+[Javascript Basics Noter](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/Programmering/del-01)
 
 Primære lærer: Ady Moussa (amo@rts.dk)
 
