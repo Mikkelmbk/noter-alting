@@ -111,3 +111,8 @@ Clone et repository ned fra github
 ```
 git clone URL HER efterfulgt af det navn du ønsker mappen skal have på din computer når den er hentet
 ```
+
+Sådan får man alle mapper vist som ligger i den mappe man står i
+```
+dir
+```
