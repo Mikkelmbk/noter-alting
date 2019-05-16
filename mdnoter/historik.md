@@ -1,5 +1,11 @@
 # **Historik**
 
+## 11-05-2019 - 17-05-2019: Programmering Praktik.
+
+### **Emner:** Programmering
+
+Primære lærer: Ady Moussa (amo@rts.dk).
+
 ## 03-05-2019 - 10-05-2019: Programmering
 
 ### **Emner:** Programmering
