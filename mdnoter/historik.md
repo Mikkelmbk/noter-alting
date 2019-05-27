@@ -6,6 +6,8 @@
 
 [Udleveret repository med klargjort kode](https://github.com/Mikkelmbk/views-and-templates)
 
+[Jacks Youtube Kanal](https://www.youtube.com/jabarts)
+
 Primære lærer: Jack baltzer (jaba@rts.dk).
 
 
