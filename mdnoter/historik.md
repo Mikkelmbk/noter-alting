@@ -1,8 +1,19 @@
 # **Historik**
 
-## 11-05-2019 - 17-05-2019: Programmering Praktik.
+## 27-05-2019 - 17-05-2019: Lidt om alting, vi havde Jack...
+
+### **Emner:** ALTING
+
+[Udleveret repository med klargjort kode](https://github.com/Mikkelmbk/views-and-templates)
+
+Primære lærer: Jack baltzer (jaba@rts.dk).
+
+
+## 11-05-2019 - 26-05-2019: Programmering Praktik.
 
 ### **Emner:** Programmering
+
+[Praktik opgaven vi fik til opgave at lave](https://github.com/Mikkelmbk/praktik-uge20-2019-mikkel-back-koll)
 
 Primære lærer: Ady Moussa (amo@rts.dk).
 
