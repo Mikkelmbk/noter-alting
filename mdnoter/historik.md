@@ -1,10 +1,12 @@
 # **Historik**
 
-## 27-05-2019 - 17-05-2019: Lidt om alting, vi havde Jack...
+## 27-05-2019 - 28-06-2019: Lidt om alting, vi havde Jack...
 
-### **Emner:** ALTING
+### **Emner:** Avanceret Front-end, Programmering, Dataservice og Integration
 
 [Udleveret repository med klargjort kode](https://github.com/Mikkelmbk/views-and-templates)
+
+[Noter til disse 3 Fag](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/blandet)
 
 [Jacks Youtube Kanal](https://www.youtube.com/jabarts)
 
