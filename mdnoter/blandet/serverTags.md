@@ -42,3 +42,9 @@ Det er en kompakt If og else statement der udskriver titlen hvis den ikke er und
 ```html
 <title><%= typeof title != 'undefined' ? title: 'DERP' %></title>
 ```
+
+Ovenstående udkommenterede kode er for at tjekke på om variablen der bliver sendt med fra routet eksistere, og hvis den eksistere og er lig med test så placere vi (?) klassen ACTIVE i html elementets klasse liste 
+
+```html
+<%= (typeof page != 'undefined' && page == 'test' ? 'active' : '')%>
+```
