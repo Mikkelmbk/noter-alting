@@ -16,11 +16,9 @@ Sådan includer man indholdet af en anden fil
 Forskellen på de forskellige serverTag Muligheder
 ```html
 
-<% 'Scriptlet' tag, for control-flow, no output
+<%= Det her tager html tagget med %>
 
-<%= Outputs the value into the template (HTML escaped)
-
-<%- Outputs the unescaped value into the template
+<%- Det her tager indholdet af Html tagget, men IKKE selve html tagget med %>
 
 ```
 
