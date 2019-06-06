@@ -4,7 +4,9 @@
 
 ### **Emner:** Avanceret Front-end, Programmering, Dataservice og Integration
 
-[Udleveret repository med klargjort kode](https://github.com/Mikkelmbk/views-and-templates)
+[SQL med Jack - The-awesome-newspage](https://github.com/rts-cmk/the-awesome-newspage/blob/master/database-opstart.md)
+
+[Udleveret repository med klargjort kode - Views and Templates](https://github.com/Mikkelmbk/views-and-templates)
 
 [Noter til disse 3 Fag](https://github.com/Mikkelmbk/noter-alting/tree/master/mdnoter/blandet)
 
