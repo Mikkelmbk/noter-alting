@@ -10,16 +10,15 @@ Sådan åbnes og lukkes et servertag
 Sådan includer man indholdet af en anden fil
 ```html
 <%- include(Fil Sti her) %>
-
 ```
 
 Forskellen på de forskellige serverTag Muligheder
 ```html
-
 <%= Det her tager html tagget med %>
 
 <%- Det her tager indholdet af Html tagget, men IKKE selve html tagget med %>
 
+<% if(typeof Server tag uden hverken ligmed eller bindestreg betyder at det er noget der IKKE skal vises på siden, men skal udføres != 'undefined'){  %>
 ```
 
 forEach på et array der bliver sendt med sammen med url'en
